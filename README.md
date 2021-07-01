@@ -2,21 +2,23 @@
 
 jlalese@gmail.com | (352) 585-5039 | linkedin.com/in/jared-alese | github.com/alesej
 
-## Education
-
-Florida Polytechnic University, Lakeland, Florida.
-
-B.S. in Computer Engineering, Concentration in Advanced Topics | Magna Cum Laude: 3.76 GPA
-
-Graduated May 2019 | Provost’s List Fall 2016, Fall 2017, Spring 2018.
-
 ## Work Experience
 
-### Software Engineer | September 2019 – Current | Cyient Inc., Melbourne, Florida.
+### Full-Stack Developer | March 2021 – Current | Credit Suisse, Raleigh, North Carolina.
 
-•	Work in an Agile team with daily stand-ups to assist our customer with system design review and testing.
+•	Working on a multi-disciplinary team as a Full-Stack developer utilizing JavaScript and React in the front-end, and Java with Spring in the back-end.
 
-•	Responsibilities include verifying requirements, writing test cases, and developing test scripts in Java to validate simulated hardware and software throughout the SDLC.
+•	Have ownership of complex form engine, spearheading design discussions and identifying bug fixes.
+
+•	Implemented design patterns to allow for translation of web application per user's selected language using i18next framework.
+
+•	Create and optimize reusable components to streamline our front-end environment and reduce technical debt, making use of React Hooks, unit testing, and code reviews.
+
+### Software Engineer | September 2019 – February 2021 | Cyient Inc., Melbourne, Florida.
+
+•	Worked in an Agile team with daily stand-ups to assist our customer with system design review and testing.
+
+•	Responsibilities included verifying requirements, writing test cases, and developing test scripts in Java to validate simulated hardware and software throughout the SDLC.
 
 •	Depended on to lead tasks with other junior engineers and help mentor new team members.
 
@@ -34,13 +36,21 @@ Graduated May 2019 | Provost’s List Fall 2016, Fall 2017, Spring 2018.
 
 •	Assisted professors and students during lab sections of Microcomputers and Digital Logic Design.
 
+## Education
+
+Florida Polytechnic University, Lakeland, Florida.
+
+B.S. in Computer Engineering, Concentration in Advanced Topics | Magna Cum Laude: 3.76 GPA
+
+Graduated May 2019 | Provost’s List Fall 2016, Fall 2017, Spring 2018.
+
 ## Skills & Attributes
 
-Languages: Java | JavaScript | Python | C++ | SQL | HTML & CSS
+Languages: Java | JavaScript | Python | SQL | HTML & CSS
 
-Technologies: React | Bootstrap | Spring Boot | Node | Express | Mongoose | Linux
+Technologies: React | Bootstrap | Spring | Node | Express | Linux
 
-Tools: Git | Subversion | MATLAB | Simulink | DOORS | JUnit
+Tools: Git | Splunk | Swagger | Jest | JUnit
 
 ## Projects
 
@@ -57,10 +67,4 @@ Tools: Git | Subversion | MATLAB | Simulink | DOORS | JUnit
 •	Designed a system capable of detecting all coin types and deducting the cost of vending machine items.
 
 •	Programmed in both C and Assembly language, utilizing an ATmega328P microcontroller. 
-
-### Renewable Energy Dormitory
-
-•	Reviewed energy requirements of modern appliances, lighting, and AC systems to reduce the footprint of a hypothetical 500 student dormitory.
-
-•	Calculated the cost, power requirements, and necessary systems to sustain the building.
 
