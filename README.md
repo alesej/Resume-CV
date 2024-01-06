@@ -4,6 +4,16 @@ jlalese@gmail.com | (352) 585-5039 | linkedin.com/in/jared-alese | github.com/al
 
 ## Work Experience
 
+### Software Engineer | May 2022 - Present | Kroger Technology & Digital, Remote
+
+• Working on a multi-disciplinary team as a Software developer utilizing TypeScript with React and Redux in the front-end, and Node.js with Azure in the back-end.
+
+• Have led design discussions for integrating our application with organization wide initiatives, taking ownership of our responsibilities and being the feature-lead for cross-team work.
+
+• Set up our Sonar environment to track code smells, bugs, and untested code. This brought our code quality up significantly and lead to unit test coverage upwards of 90%.
+
+• Reviewed and modified our build and deployment, bringing page load times from 15s to under 10s and lowering build size by about 40%.
+
 ### Full-Stack Developer | March 2021 – Current | Credit Suisse, Raleigh, North Carolina.
 
 •	Working on a multi-disciplinary team as a Full-Stack developer utilizing JavaScript and React in the front-end, and Java with Spring in the back-end.
@@ -46,25 +56,11 @@ Graduated May 2019 | Provost’s List Fall 2016, Fall 2017, Spring 2018.
 
 ## Skills & Attributes
 
-Languages: Java | JavaScript | Python | SQL | HTML & CSS
+Languages: TypeScript | JavaScript | Java | SQL | HTML & CSS
 
-Technologies: React | Bootstrap | Spring | Node | Express | Linux
+Technologies: React | Redux | Spring | Node 
 
-Tools: Git | Splunk | Swagger | Jest | JUnit
+Tools: Git | JUnit | Postman | Jest | SonarQube
 
-## Projects
 
-### QuickList | Full stack web application for quickly making shopping lists, notes, etc. – MERN
-
-•	User can create a new list with a unique ID, or load an existing list by entering its ID. The list items can be quickly added, deleted, changed, and saved to the cloud.
-
-•	The front-end is designed with React.js and Bootstrap and is scalable for device screen size. 
-
-•	The back-end is powered by Express and Node.js to connect the web page to a MongoDB collection via a RESTful API with Mongoose.
-
-### Coin Operated Vending Machine
-
-•	Designed a system capable of detecting all coin types and deducting the cost of vending machine items.
-
-•	Programmed in both C and Assembly language, utilizing an ATmega328P microcontroller. 
 
