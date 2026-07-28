@@ -1,6 +1,6 @@
 # Jared Alese
 
-jlalese@gmail.com | (352) 585-5039 | linkedin.com/in/jared-alese | github.com/alesej
+jlalese@gmail.com | linkedin.com/in/jared-alese | github.com/alesej
 
 ## Work Experience
 
